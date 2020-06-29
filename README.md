@@ -1,2 +1,2 @@
-# Admin Panel
+# Laravel Admin Panel
  
